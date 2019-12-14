@@ -1,4 +1,4 @@
-# fastAPI
+# Library FastAPI
 1. Clone repository
 2. Instal fastAPI: pip install fastapi
 3. Instal uvicorn: pip install uvicorn
